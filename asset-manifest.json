@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jianshu/static/css/main.b857d811.chunk.css",
+    "main.js": "/jianshu/static/js/main.8436d9b0.chunk.js",
+    "main.js.map": "/jianshu/static/js/main.8436d9b0.chunk.js.map",
+    "runtime~main.js": "/jianshu/static/js/runtime~main.362de7da.js",
+    "runtime~main.js.map": "/jianshu/static/js/runtime~main.362de7da.js.map",
+    "static/js/2.3eaf0c74.chunk.js": "/jianshu/static/js/2.3eaf0c74.chunk.js",
+    "static/js/2.3eaf0c74.chunk.js.map": "/jianshu/static/js/2.3eaf0c74.chunk.js.map",
+    "index.html": "/jianshu/index.html",
+    "precache-manifest.ae9f493f20b860c211ae25445a778c2f.js": "/jianshu/precache-manifest.ae9f493f20b860c211ae25445a778c2f.js",
+    "service-worker.js": "/jianshu/service-worker.js",
+    "static/css/main.b857d811.chunk.css.map": "/jianshu/static/css/main.b857d811.chunk.css.map",
+    "static/media/iconfont.css": "/jianshu/static/media/iconfont.d8f70f81.ttf"
+  }
+}
